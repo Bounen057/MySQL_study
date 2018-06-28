@@ -1,0 +1,6 @@
+name: MySQL
+version: ${project.version}
+main: man10.red.mysql_sample.MySQL
+
+commands:
+  mysql:
